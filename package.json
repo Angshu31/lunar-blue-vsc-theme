@@ -10,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "repository": "git:https://github.com/Ongshu777/lunar-blue-vsc-theme",
   "contributes": {
     "themes": [
       {
