@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lunar Blue",
+        "label": "Lunar Blue (dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/LunarBlue-color-theme.json"
       }
