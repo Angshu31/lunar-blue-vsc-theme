@@ -1,0 +1,22 @@
+{
+  "name": "lunar-blue",
+  "displayName": "Lunar Blue",
+  "description": "A purple and blue based theme for VSCode.",
+  "publisher": "ongshu777",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lunar Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LunarBlue-color-theme.json"
+      }
+    ]
+  }
+}
