@@ -124,7 +124,8 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#fff5bf"
+        "foreground": "#fff5bf",
+        "fontStyle": "italic"
       }
     },
     {
@@ -148,7 +149,7 @@
       ],
       "settings": {
         "foreground": "#fcdfc3",
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {
