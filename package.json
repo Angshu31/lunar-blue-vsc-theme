@@ -3,7 +3,7 @@
   "displayName": "Lunar Blue",
   "description": "A purple and blue based theme for VSCode.",
   "publisher": "ongshu777",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.50.0"
   },
