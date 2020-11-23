@@ -275,8 +275,8 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#eab292",
-        "fontStyle": ""
+        "foreground": "#fff5bf",
+        "fontStyle": "italic"
       }
     },
     {
