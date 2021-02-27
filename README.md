@@ -2,7 +2,8 @@
 
 ### A VSCode theme based on blue, purple, and bold text.
 
-![image](https://i.imgur.com/cKmo8wf.png "Image")
+![image](https://user-images.githubusercontent.com/51079288/109399032-215ffb80-7938-11eb-8379-0901abe360b8.png)
+
 
 ## Features
 
