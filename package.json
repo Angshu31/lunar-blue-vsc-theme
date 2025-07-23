@@ -15,7 +15,6 @@
     "themes": [
       {
         "label": "Lunar Blue (dark)",
-        "uiTheme": "vs-dark",
         "path": "./themes/LunarBlue-color-theme.json"
       }
     ]
